@@ -2,7 +2,7 @@
 Redis permet de sauvegarder les information comme cle valeur.
 les types de données stokés dans REDIS sont les clés-valeurs
 ## les valeurs:
-*STRING 
+* STRING 
 * LISTS
 * SETS
 * HASHES
